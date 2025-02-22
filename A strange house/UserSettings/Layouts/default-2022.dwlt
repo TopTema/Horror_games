@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 138
+  controlID: 139
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -403,7 +403,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffff
+      m_ExpandedIDs: 10faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -835,9 +835,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.802719, y: 6.9332547, z: -6.040777}
+    m_Target: {x: 5.964563, y: 0.4728448, z: -3.2792392}
     speed: 2
-    m_Value: {x: 6.802719, y: 6.9332547, z: -6.040777}
+    m_Value: {x: 5.964563, y: 0.4728448, z: -3.2792392}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -885,11 +885,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.029965522, y: -0.9700308, z: 0.16751, w: 0.17349151}
     speed: 2
-    m_Value: {x: 0.030996706, y: -0.9689913, z: 0.1703257, w: 0.17630717}
+    m_Value: {x: -0.029965274, y: 0.9700228, z: -0.16750863, w: -0.17349008}
   m_Size:
-    m_Target: 11.508561
+    m_Target: 7.9302583
     speed: 2
-    m_Value: 11.508561
+    m_Value: 7.5887637
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1103,14 +1103,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Working\Horror_games\A strange house
+  m_LastProjectPath: "C:\\Users\\\u0410\u0440\u0442\u0451\u043C\\Documents\\GitHub\\Horror_games\\A
+    strange house"
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 39}
-    m_SelectedIDs: a65e0000
-    m_LastClickedID: 24230
-    m_ExpandedIDs: 00000000a65e000000ca9a3b
+    m_SelectedIDs: d65e0000
+    m_LastClickedID: 24278
+    m_ExpandedIDs: 00000000d65e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1138,7 +1139,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b06a0000
     m_LastClickedID: 27312
-    m_ExpandedIDs: 00000000a65e0000
+    m_ExpandedIDs: 00000000d65e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
